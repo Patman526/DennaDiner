@@ -6,4 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".BreakfastItemDetailActivity">
 
+    <!-- Text view for name, desc, and price
+        ImageView for pic
+        ids: food_name, food_price, food_pic -->
+
 </androidx.constraintlayout.widget.ConstraintLayout>
